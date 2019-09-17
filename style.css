@@ -1,3 +1,67 @@
+body {
+	background: #95C07B;
+	text-align: center;
+}
+
 h1 {
-  color: red;
+	color:#549431;
+	font-size: 85px;
+	text-align: center;
+	font-family: 'Livvic', sans-serif;
+}
+
+h2 {
+	color:#FFFE2E;
+	font-size: 65px;
+	text-align: left;
+	font-family: 'Sacramento', cursive;
+}
+
+img{
+	width: 500px;
+}
+
+p {
+	font-family: 'Livvic', sans-serif;
+	font-size: 50px;
+	text-align: left;
+}
+
+ul{
+	font-family: 'Livvic', sans-serif;
+	text-align: left;
+}
+
+.photo2 {
+	width: 200px
+}
+
+.photo1 {
+	width: 500px
+}
+
+.box {
+	background: white;
+	padding: 50px;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 }
